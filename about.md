@@ -24,4 +24,5 @@ Beyond the above, I'm a big fan of games, heavy music, reading, and nature. I ha
 ### Contact me
 
 [Umich email](mailto:mclenard@umich.edu)
+
 [Personal email](mailto:michael.c.lenard@gmail.com)
