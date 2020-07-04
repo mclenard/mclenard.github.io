@@ -20,7 +20,7 @@ Helping the City of Ann Arbor crosswalk its biodiversity Access databases to Dar
 
 ## Previous projects
 
-#### Denver USGS Fossil data reconciliation
+#### Denver USGS Fossil data reconciliation (2020)
 In 2018, the Smithsonian National Museum of Natural History (NMNH) took curatorial responsibility for a USGS fossil collection, along with associated digital materials, that had been distributed among several locations following the USGS Denver Paleontology and Stratigraphy (P&S) research program’s closure in 1995. I worked with several of my peers at UMSI to help the NMNH informatics team prepare to reconcile the digital files (namely the inventories) across the physical collection. We worked to identify the most up-to-date and complete versions of the many inventories, as well as copies, duplicates, and redundant information. We also made suggestions for cleaning, organizing, and maintaining these files to make them more fit for use, as well as offered recommendations for future curation steps. 
 
 #### Unearthing Michigan Ecological Data (2019 - 2020)
