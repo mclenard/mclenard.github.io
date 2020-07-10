@@ -19,7 +19,7 @@
 }
 
 @font-face {
-  font-family: "Roboto Slab";
+  font-family: "RobotoSlab";
   src: url("/fonts/RobotoSlab-VariableFont_wght.ttf");
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: RobotoSlab, sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -208,7 +208,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: "Roboto Slab";
+  font-family: RobotoSlab;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
