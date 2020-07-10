@@ -227,7 +227,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $Inconsolata;
+  font-family: Inconsolata;
   font-size: 18px;
 
   @include mobile {
