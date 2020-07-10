@@ -9,6 +9,12 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+//
+// FONT IMPORTS
+//
+
+
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -19,7 +25,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 "Letter Gothic", monospace;
+  font: 18px/1.4 "Inconsolata", monospace;
   color: $darkGray;
 }
 
@@ -194,7 +200,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: "Roboto Slab";
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
