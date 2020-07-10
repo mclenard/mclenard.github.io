@@ -33,7 +33,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 "Inconsolata", monospace;
+  font: 18px/1.4 Inconsolata, monospace;
   color: $darkGray;
 }
 
@@ -229,6 +229,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: Inconsolata;
   font-size: 18px;
+  font-weight: bold;
 
   @include mobile {
     float: none;
