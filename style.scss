@@ -23,6 +23,11 @@
   src: url("/fonts/RobotoSlab-VariableFont_wght.ttf");
 }
 
+@font-face {
+  font-family: "LetterGothic";
+  src: url("/fonts/23012_LetterGothic.ttf");
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -33,7 +38,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 Inconsolata, monospace;
+  font: 18px/1.4 LetterGothic, monospace;
   color: $darkGray;
 }
 
@@ -228,7 +233,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: Inconsolata;
-  font-size: 18px;
+  font-size: 20px;
 
   @include mobile {
     float: none;
@@ -241,7 +246,7 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: 1px;
 
     @include mobile {
@@ -271,6 +276,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
+    font-family: Inconsolata;
     font-size: 22px;
     font-style: italic;
   }
