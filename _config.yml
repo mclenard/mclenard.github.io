@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Michael Lenard
+name: M. C. Lenard
 
 # Short bio or description (displayed in the header)
 description: Science, data, & LIS
@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: RSS
   twitter: m_c_lenard
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
