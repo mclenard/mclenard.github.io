@@ -50,7 +50,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: RobotoSlab, sans-serif;
+  font-family: Inconsolata, sans-serif;
   color: $white;
   font-weight: 400;
 
@@ -64,6 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  font-family: LetterGothic;
   font-size: 30px;
   a {
     color: inherit;
