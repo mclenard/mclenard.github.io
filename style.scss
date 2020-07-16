@@ -37,9 +37,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkGray;
   font: 18px/1.5 Inconsolata, monospace;
-  color: $darkGray;
+  color: $white;
 }
 
 .container {
@@ -51,7 +51,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: RobotoSlab, sans-serif;
-  color: $darkerGray;
+  color: $white;
   font-weight: 400;
 
   line-height: 1.7;
@@ -80,7 +80,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $darkGray;
+  color: $white;
 }
 
 p {
@@ -136,7 +136,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $lightGray;
 }
 
 // Specify the color of the selection
@@ -211,7 +211,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
   font-family: RobotoSlab;
   font-weight: 300;
@@ -221,7 +221,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightGray;
   font-size: 16px;
 
   @include mobile {
@@ -244,7 +244,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $white;
     text-align: right;
     font-weight: 400;
     letter-spacing: 1px;
@@ -295,7 +295,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $darkerGray;
 }
 
 footer {
