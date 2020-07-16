@@ -37,9 +37,9 @@ html {
 }
 
 body {
-	background: $darkGray;
+	background: $darkerGray;
   font: 18px/1.5 Inconsolata, monospace;
-  color: $white;
+  color: $lightGray;
 }
 
 .container {
@@ -80,7 +80,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $white;
+  color: $lightGray;
 }
 
 p {
@@ -136,7 +136,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $lightGray;
+  color: $gray;
 }
 
 // Specify the color of the selection
@@ -293,9 +293,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $darkerGray;
+  border-top: 1px solid #222;
+  border-bottom: 1px solid #222;
+  background-color: $black;
 }
 
 footer {
