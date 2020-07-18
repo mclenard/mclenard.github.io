@@ -17,11 +17,11 @@ Academically and professionally, I'm generally interested in the intersection of
 - Citizen & community science + science outreach
 - Increasing library engagement in facilitating more open & accessible sciences
 
-### More Information
+# More Information
 
 Beyond the above, I'm a big fan of games, heavy music, reading, and nature. I have an enthusiastic (if amateur) interest in ecology, astronomy, mathematics, linguistics, and analytic philosophy. I believe strongly in the ability of education and understanding to enrich our lives and better our world. 
 
-### Contact me
+## Contact me
 
 [Umich email](mailto:mclenard@umich.edu)
 
