@@ -37,7 +37,7 @@ html {
 }
 
 body {
-	background: #220a77;
+	background: #1b085f;
   font: 18px/1.5 Inconsolata, monospace;
   color: $lightGray;
 }
@@ -143,12 +143,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $lightGray;
-  background: #000080;
+  color: $white;
+  background: #17182b;
 }
 ::selection {
-  color: $lightGray;
-  background: #000080;
+  color: $white;
+  background: #17182b;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -295,9 +295,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #1b085f;
-  border-bottom: 1px solid #1b085f;
-  background-color: #1b085f;
+  border-top: 1px solid #16064c;
+  border-bottom: 1px solid #16064c;
+  background-color: #16064c;
 }
 
 footer {
