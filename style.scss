@@ -23,11 +23,6 @@
   src: url("/fonts/RobotoSlab-VariableFont_wght.ttf");
 }
 
-@font-face {
-  font-family: "LetterGothic";
-  src: url("/fonts/23012_LetterGothic.ttf");
-}
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -38,7 +33,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.5 Inconsolata, monospace;
+  font: 18px/1.5 sans-serif;
   color: $darkGray;
 }
 
