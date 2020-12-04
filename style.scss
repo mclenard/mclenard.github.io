@@ -33,7 +33,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.5 sans-serif;
+  font: 18px/1.5 serif;
   color: $darkGray;
 }
 
@@ -45,9 +45,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: RobotoSlab, sans-serif;
+  font-family: RobotoSlab;
   color: $darkerGray;
-  font-weight: 400;
+  font-weight: 300;
 
   line-height: 1.7;
   margin: 1em 0 15px;
