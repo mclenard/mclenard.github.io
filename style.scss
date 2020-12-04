@@ -23,6 +23,30 @@
   src: url("/fonts/RobotoSlab-VariableFont_wght.ttf");
 }
 
+@font-face {
+  font-family: "Caslon";
+  src: url("/fonts/ACaslonPro-Regular.otf");
+}
+
+@font-face {
+  font-family: "Caslon";
+  src: url("/fonts/ACaslonPro-Italic.otf");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Caslon";
+  src: url("/fonts/ACaslonPro-Bold.otf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Caslon";
+  src: url("/fonts/ACaslonPro-BoldItalic.otf");
+  font-weight: bold;
+  font-style: italic;
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -33,7 +57,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.5 adobe-caslon-pro, Caslon, Georgia, serif;
+  font: 18px/1.5 Caslon, Georgia, serif;
   color: $darkGray;
 }
 
@@ -271,7 +295,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-family: adobe-caslon-pro, Caslon, Georgia, serif;
+    font-family: Caslon, Georgia, serif;
     font-size: 22px;
     font-style: italic;
   }
