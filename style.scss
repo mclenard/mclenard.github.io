@@ -56,8 +56,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.5 Caslon, Georgia, serif;
+  background: $white;
+  font-family: Caslon, Georgia, serif;
+  line-height: 1.5;
+  font-size: 18px;
   color: $darkGray;
 }
 
